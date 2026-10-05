@@ -1,0 +1,7 @@
+{
+    "package": "browse_selected_deck",
+    "name": "Browse Selected Deck",
+    "homepage": "https://github.com/yndarra/anki-browse-selected-deck",
+    "conflicts": [],
+    "min_point_version": 231000
+}
