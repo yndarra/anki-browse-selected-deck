@@ -1,5 +1,8 @@
 # Browse Selected Deck
 
+**Install:** in Anki go to Tools → Add-ons → Get Add-ons… and enter the code **`1452948121`** ([AnkiWeb page](https://ankiweb.net/shared/info/1452948121)).
+**Установка:** Инструменты → Дополнения → Скачать дополнения… → код **`1452948121`**.
+
 A small Anki add-on: **Browse** (or the `B` key) switches an **already open** browser to the deck selected on the main screen.
 
 In Anki, `Shift`+click on a deck row in the deck list selects that deck without opening it. Then:
